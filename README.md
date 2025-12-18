@@ -62,3 +62,7 @@ Esta sección recoge los documentos relevantes al proyecto que no se pueden incl
 ## 4.1. Código fuente
 
 El código fuente se puede encontrar en el siguiente [repositorio de GitHub](https://github.com/JavierDibo/alexa-juego-pr-3).
+
+# 5. Conclusión
+
+El desarrollo de esta práctica ha permitido consolidar los conocimientos sobre el diseño de interfaces de voz y la gestión de estados en aplicaciones conversacionales. La integración de AWS Lambda con Alexa Developer Console demuestra la potencia del modelo serverless para crear experiencias de usuario interactivas y escalables. El resultado es una skill funcional que no solo cumple con los requisitos técnicos, sino que también ofrece una experiencia de juego fluida y robusta.
